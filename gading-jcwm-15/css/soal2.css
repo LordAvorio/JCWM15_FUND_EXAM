@@ -1,0 +1,62 @@
+body{
+    background-image: linear-gradient(to left, #ff416c, #ff405d, #ff424e, #ff453e, #ff4b2b);
+    font-family: 'Roboto Condensed', sans-serif !important;
+}
+
+p{
+    margin: 0px !important;
+}
+
+
+
+
+#headerTitle{
+    font-size: 40px;
+    border-radius: 10px 10px 0px 0px;
+    text-align: center;
+    background-color: #024873;
+    padding: 20px;
+    color: #D9D9D9;
+}
+
+#headerBody{
+    background-color: #D9D9D9;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.labelCustom{
+    color: #024873;
+}
+
+
+#inputAngka{
+    color: #024873;
+}
+
+#inputTipe{
+    background-color: #024873;
+    color: #D9D9D9;
+}
+
+
+#bodyAnswer{
+    text-align: center;
+    background-color: white;
+    font-size: 20px;
+    padding: 20px;
+}
+
+#submitButton{
+    padding: 10px 0px;
+    border-radius: 5px;
+    background-color: #024873;
+    color: #D9D9D9;
+    font-size: 25px;
+    width: 100%;
+}
+
+#submitButton:hover{
+    background-color: orange;
+    color: #024873;
+}
+

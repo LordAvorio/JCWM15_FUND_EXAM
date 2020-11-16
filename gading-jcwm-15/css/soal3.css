@@ -1,0 +1,39 @@
+
+
+#customHeaderTabel{
+    text-align: center;
+    background-color: #024873;
+    color: #D9D9D9;
+}
+
+.bodyForm{
+    background-color: #D9D9D9;
+    color: #024873;
+}
+
+#customHeaderForm{
+    text-align: center;
+    background-color: #024873;
+    color: #D9D9D9;
+}
+
+
+#buttonAddUser{
+    width: 100%;
+}
+
+#pilihRole{
+    width: 100%;
+}
+
+#tableData{
+    text-align: center;
+    width: 100%;
+    border: 3px solid black;
+}
+
+th{
+    border: 3px solid black;
+}
+
+
